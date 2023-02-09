@@ -2,7 +2,7 @@
   "name": "neosolarized-vim-vscode",
   "displayName": "Neosolarized VIM Theme",
   "description": "Variant of John Schlesinger's Solarized theme. The aim is to resemble the neosolarized-vim theme as closely as possible.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.75.0"
   },
